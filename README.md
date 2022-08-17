@@ -1,2 +1,3 @@
-# icons
-Icon repository
+# BoneSwap Icons
+
+...
